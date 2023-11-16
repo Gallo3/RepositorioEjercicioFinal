@@ -1,0 +1,9 @@
+16#M#ESCORIAL#Mesa#5000#56#Madera
+12#P#Paladini#Paleta#500#12#2023-12-12#2004-06-16
+19#R#ESCORIAL#Mesada#5800#2#Marmol
+112#P#Lario#Paleta#800,00#12#2024-10-12#2016-09-11
+123#Q#La paulina#Queso#8800#15#2023-12-12#2019-12-12
+116#P#CERMACO#Ceramica#999#16#Ceramico
+855#M#Paladini#Mortadela#880#56#2023-12-16#2001-12-16
+188#Q#Ilolay#Queso Untable#800#12#2023-11-17#2023-11-15
+4646#B#PEPE#Banco#8999#6#Madera
